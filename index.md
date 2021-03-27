@@ -29,7 +29,7 @@ Live Streaming (For Chinese users): Click [here](https://appukVkRYx45804.h5.xekn
 
 <br>
 
-**All the <b style="color:red">accepted papers </b> can be found [here](/accept.html)**
+**All the <b style="color:red">accepted papers </b> can be found [here](/dlp-kdd2020/accept.html)**
 
 Website for dlp-kdd2019 can be found **[here](https://dlp-kdd.github.io/dlp-kdd2019)**
 
