@@ -205,24 +205,24 @@ If you have any questions about submissions or our workshop, please contact [*dl
   <img src="assets/img/bg.png">  
 
 ## Program Committee
-Xuyang Wu, Santa Clara University
-Junwei Pan, Tencent
-Dheevatsa Mudigere, Facebook Research
-Yue Shang, JD.com
-Huan Zhao, 4Paradigm
-Zhen Qin, Google
-Ruiming Tang, Huawei
-Yugang Jia, Fidelity Investments
-Haiyan Luo, Indeed.com
-Zheng Gao, Indiana University Bloomington
-Han Zhu, Alibaba Inc.
-Mou Na, alibaba
-Tian Wang, eBay
-Yanru Qu, Shanghai Jiao Tong University
-Ying Wen, Shanghai Jiao Tong University
-Yin Lou, Ant Group
-Yu Sun, Indeed,Inc
-Lin Guo, Alibaba Group
+- Xuyang Wu, Santa Clara University
+- Junwei Pan, Tencent
+- Dheevatsa Mudigere, Facebook Research
+- Yue Shang, JD.com
+- Huan Zhao, 4Paradigm
+- Zhen Qin, Google
+- Ruiming Tang, Huawei
+- Yugang Jia, Fidelity Investments
+- Haiyan Luo, Indeed.com
+- Zheng Gao, Indiana University Bloomington
+- Han Zhu, Alibaba Group
+- Mou Na, Alibaba Group
+- Tian Wang, eBay
+- Yanru Qu, Shanghai Jiao Tong University
+- Ying Wen, Shanghai Jiao Tong University
+- Yin Lou, Ant Group
+- Yu Sun, Indeed,Inc
+- Lin Guo, Alibaba Group
 
 ## Sponsor
 <a href="http://www.polixir.ai/">
